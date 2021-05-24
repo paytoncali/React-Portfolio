@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'vacation.png',
     title: 'Vacation Planner',
     info: '',
     info2: '',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'weekdaze.png',
     title: 'WorkDaze',
     info: '',
     info2: '',
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'user-directory.png',
     title: 'User Directory',
     info: '',
     info2: '',
@@ -55,7 +55,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'workout-tracker.png',
     title: 'Workout Tracker',
     info: '',
     info2: '',
@@ -64,7 +64,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'tech-blog.png',
     title: 'Tech Blog',
     info: '',
     info2: '',
@@ -73,7 +73,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'code-quiz.png',
     title: 'Code Quiz',
     info: '',
     info2: '',
