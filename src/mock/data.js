@@ -30,8 +30,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'vacation.png',
     title: 'Vacation-Planner',
-    info: 'text',
-    info2: 'does this work',
+    info: 'Vacation Planner is an application built to help users pick a vacation. You can pick either a winter or summer themed vacation which then brings you to three location options. Once you have selected your location, you will be presented with a weather forecast, restaurant options, and a todo list.',
+    info2: '',
     url: 'https://paytoncali.github.io/vacation_planner/',
     repo: 'https://github.com/paytoncali/vacation_planner.git', // if no repo, the button will not show up
   },
@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'weekdaze.png',
     title: 'WorkDaze',
-    info: '',
+    info: 'WorkDaze is an application used to help users track their job search. Users can add which jobs they have applied too and track which stage of the process they are in. Using Chart.js, you can view how many days has past since you first applied for a job.',
     info2: '',
     url: 'https://arcane-harbor-21800.herokuapp.com/',
     repo: 'https://github.com/paytoncali/WeekDaze.git', // if no repo, the button will not show up
@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'user-directory.png',
     title: 'User-Directory',
-    info: '',
+    info: 'This application was created using React.js and is used to search and sort users within this directory. A random user API was used to create the users.',
     info2: '',
     url: 'https://paytoncali.github.io/user-directory/',
     repo: 'https://github.com/paytoncali/user-directory.git', // if no repo, the button will not show up
@@ -57,7 +57,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'workout-tracker.png',
     title: 'Workout-Tracker',
-    info: '',
+    info: 'This application helps the user track workouts that they have completed over a span of 7 days. On the dashboard, you are able to see two charts. On the homepage, it shows you your last workout and allows you to continue a workout or start a new one.',
     info2: '',
     url: 'https://peaceful-meadow-10844.herokuapp.com/',
     repo: 'https://github.com/paytoncali/workout-tracker.git', // if no repo, the button will not show up
@@ -66,7 +66,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'tech-blog.png',
     title: 'Tech-Blog',
-    info: '',
+    info: 'This application allows users to have a webpage to post blogs, comment on others posts, delete the users posts and edit the users posts.    ',
     info2: '',
     url: 'https://frozen-stream-21398.herokuapp.com/',
     repo: 'https://github.com/paytoncali/model-view-controller.git', // if no repo, the button will not show up
@@ -75,7 +75,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'code-quiz.png',
     title: 'Code-Quiz',
-    info: '',
+    info: 'This website was created to generate a quiz to test users on their knowledge of JavaScript. The application has 5 questions. When you answer a question correctly, it will move onto the next question. When a question is answered incorrectly, it will deduct 10 seconds from the total 50 second allotted. If you run out of time before completely the quiz, you recieve a score of 0. If you answer all the question correctly before time runs out, then you recieve a score of the number of seconds left on the timer. Once the quiz has been completed, it will display your score and ask for your initials to record your score.',
     info2: '',
     url: 'https://paytoncali.github.io/Code-Quiz/',
     repo: 'https://github.com/paytoncali/Code-Quiz.git', // if no repo, the button will not show up
