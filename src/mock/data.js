@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'vacation.png',
     title: 'Vacation-Planner',
     info: 'text',
-    info2: '',
+    info2: 'does this work',
     url: 'https://paytoncali.github.io/vacation_planner/',
     repo: 'https://github.com/paytoncali/vacation_planner.git', // if no repo, the button will not show up
   },
