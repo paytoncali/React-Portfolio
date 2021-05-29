@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Vacation-Planner',
     info: 'text',
     info2: '',
-    url: 'https://damiandeleon.github.io/vacation_planner/',
+    url: 'https://paytoncali.github.io/vacation_planner/',
     repo: 'https://github.com/paytoncali/vacation_planner.git', // if no repo, the button will not show up
   },
   {
