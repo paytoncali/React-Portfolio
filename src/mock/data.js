@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'vacation.png',
-    title: 'Vacation Planner',
+    title: 'Vacation-Planner',
     info: '',
     info2: '',
     url: 'https://damiandeleon.github.io/vacation_planner/',
@@ -47,7 +47,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'user-directory.png',
-    title: 'User Directory',
+    title: 'User-Directory',
     info: '',
     info2: '',
     url: 'https://paytoncali.github.io/user-directory/',
@@ -56,7 +56,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'workout-tracker.png',
-    title: 'Workout Tracker',
+    title: 'Workout-Tracker',
     info: '',
     info2: '',
     url: 'https://peaceful-meadow-10844.herokuapp.com/',
@@ -65,7 +65,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'tech-blog.png',
-    title: 'Tech Blog',
+    title: 'Tech-Blog',
     info: '',
     info2: '',
     url: 'https://frozen-stream-21398.herokuapp.com/',
@@ -74,7 +74,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'code-quiz.png',
-    title: 'Code Quiz',
+    title: 'Code-Quiz',
     info: '',
     info2: '',
     url: 'https://paytoncali.github.io/Code-Quiz/',
