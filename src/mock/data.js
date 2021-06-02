@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'vacation.png',
+    img: `vacation.png`,
     title: 'Vacation-Planner',
     info: 'Vacation Planner is an application built to help users pick a vacation. You can pick either a winter or summer themed vacation which then brings you to three location options. Once you have selected your location, you will be presented with a weather forecast, restaurant options, and a todo list.',
     info2: '',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'weekdaze.png',
+    img: `weekdaze.png`,
     title: 'WorkDaze',
     info: 'WorkDaze is an application used to help users track their job search. Users can add which jobs they have applied too and track which stage of the process they are in. Using Chart.js, you can view how many days has past since you first applied for a job.',
     info2: '',

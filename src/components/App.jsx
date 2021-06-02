@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Hero from './Hero/Hero';
 import About from './About/About';
 import Projects from './Projects/Projects';
+// import Skills from './Skills/skills';
 import Contact from './Contact/Contact';
 import Footer from './Footer/Footer';
 
@@ -13,6 +14,7 @@ function App() {
   const [hero, setHero] = useState({});
   const [about, setAbout] = useState({});
   const [projects, setProjects] = useState([]);
+  // const [skills, setSkills] = useState([]);
   const [contact, setContact] = useState({});
   const [footer, setFooter] = useState({});
 
@@ -20,6 +22,7 @@ function App() {
     setHero({ ...heroData });
     setAbout({ ...aboutData });
     setProjects([...projectsData]);
+    // setSkills([...skillsData])
     setContact({ ...contactData });
     setFooter({ ...footerData });
   }, []);
@@ -29,6 +32,7 @@ function App() {
       <Hero />
       <About />
       <Projects />
+      {/* <Skills /> */}
       <Contact />
       <Footer />
     </PortfolioProvider>
