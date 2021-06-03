@@ -21,6 +21,10 @@ git clone the github link, npm i and you will be able to run this locally.
 ### Usage
 This application is used to to showcase my abilities as a full stack web developer.
   
+![Start of Application](/images/firstpage.png)
+![Scroll Down One](/images/secondpage.png)
+![Scroll Down Two](/images/thirdpage.png)
+
 ### Contributors
 I used a template created by Jacobo Martinez - https://github.com/cobidev | https://github.com/cobidev/gatsby-simplefolio
 
