@@ -17,10 +17,11 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpeg',
+  img: 'profile.JPG',
   paragraphOne: 'I am so glad you are here! My name is Payton Whinnery, and I am a 26 year old Full Stack Web Developer. I graduated from Texas State University with a BBA in Management in 2016. I recently received my certification in Full Stack Web Development from UT Austin.',
   paragraphTwo: 'Since 2017, I have been working for a travel company specializing in sports travel. While in my current role, I began working closely with the development vendors to improve the customer service experience when guests are booking reservations. This sparked my interest in web development and began my career as a Full Stack Web Developer. I have loved every minute of learning new languages and technologies.',
   paragraphThree: "Combining the soft skills I've acquired in the workplace with my knowledge of web development, I look forward to becoming a valuable part of a team where I can use my skills of problem solving, critical thinking, and debugging to help improve web user experience.",
+  languages: "HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, React.js, Node.js, MongoDB, MySQL",
   resume: 'https://drive.google.com/file/d/1s6VctFOCnlXkyP8A2-EHbqpmh8gHjWXc/view?usp=sharing', // if no resume, the button will not show up
 };
 
